@@ -1,4 +1,4 @@
-# Introdução VAMO AO HEXA CARAIOOOOOOOO, VAI NEYMAR
+# Introdução --------- giquinha no grau
 
 ## O que é o git?
 
