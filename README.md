@@ -1,6 +1,6 @@
 # Introdução --------- giquinha no grau
 
-## O que é o git?
+## O que é o git? sabemos o que é
 
 O git é um software que serve para fazer **controle de versão**.
 Isto é, ele serve para que a gente possa guardar as versões diferentes dos nossos arquivos.
